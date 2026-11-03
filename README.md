@@ -2,5 +2,5 @@
 
 ## Linguagem: Java - POO
 
-### Trabalho realizado por: fulano x
+### Trabalho realizado por: João Matos
 
